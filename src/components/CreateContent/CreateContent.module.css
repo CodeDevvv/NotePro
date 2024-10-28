@@ -1,0 +1,77 @@
+.container {
+    width: 100%;
+    padding: 2rem;
+    color: white;
+}
+
+.header {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin-bottom: 1rem;
+    padding-bottom: 10px;
+}
+
+.cancelIcon {
+    font-size: 3rem;
+    cursor: pointer;
+}
+
+.form {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.label {
+    margin-bottom: 0.5rem;
+    font-size: 1.5rem;
+}
+
+.inputField {
+    padding: 1rem;
+    border-radius: 0.375rem;
+    font-size: 1.7rem;
+    margin-bottom: 1.25rem;
+    border: none;
+    border-bottom: 1px solid white;
+    background-color: transparent;
+    color: white;
+}
+
+.inputField:focus {
+    outline: none;
+}
+
+.editor {
+    font-size: 1.5rem;
+    color: white;
+    opacity: 0.75;
+    line-height: 1.6;
+    padding: 20px;
+    background-color: black;
+    border-radius: 0.375rem;
+    margin-bottom: 1.25rem;
+}
+
+.editor:hover {
+    color: #bc00d7;
+}
+
+
+.button {
+    width: 100%;
+    background-color: #ffffff;
+    color: #080710;
+    padding: 15px 0;
+    font-size: 18px;
+    font-weight: 600;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 30px;
+    border: none;
+}
+
+.button:hover {
+    background: rgba(255, 255, 255, 0.671);
+}

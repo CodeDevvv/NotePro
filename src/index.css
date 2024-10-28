@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Outfit&display=swap');
+@import 'react-toastify/dist/ReactToastify.css';
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Outfit;
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.dev/svgjs' width='1440' height='560' preserveAspectRatio='none' viewBox='0 0 1440 560'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1335%26quot%3b)' fill='none'%3e%3crect width='1440' height='560' x='0' y='0' fill='url(%26quot%3b%23SvgjsLinearGradient1336%26quot%3b)'%3e%3c/rect%3e%3cpath d='M410.9711009944593 447.65911894295056L286.6321145942438 516.5813445530528 355.554340204346 640.9203309532683 479.8933266045615 571.9981053431661z' fill='rgba(188%2c 0%2c 215%2c 1)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M1429.7329746484397 140.46040985141585L1490.6061198514685 72.85393297191749 1358.7598319307065 15.347453607123583z' fill='rgba(188%2c 0%2c 215%2c 1)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M1344.2667938840045 166.40305047911556L1349.6407113845014 268.9435048546717 1452.1811657600576 263.56958735417476 1446.8072482595608 161.0291329786186z' fill='rgba(188%2c 0%2c 215%2c 1)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M984.6204463200206 520.5110210088429L1137.0771144309658 432.6837420980668 1005.2416459709148 353.46900090937214z' fill='rgba(188%2c 0%2c 215%2c 1)' class='triangle-float2'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1335'%3e%3crect width='1440' height='560' fill='white'%3e%3c/rect%3e%3c/mask%3e%3clinearGradient x1='15.28%25' y1='-39.29%25' x2='84.72%25' y2='139.29%25' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient1336'%3e%3cstop stop-color='%230e2a47' offset='0'%3e%3c/stop%3e%3cstop stop-color='rgba(177%2c 15%2c 188%2c 1)' offset='1'%3e%3c/stop%3e%3c/linearGradient%3e%3cstyle%3e %40keyframes float1 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(-10px%2c 0)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float1 %7b animation: float1 5s infinite%3b %7d %40keyframes float2 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(-5px%2c -5px)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float2 %7b animation: float2 4s infinite%3b %7d %40keyframes float3 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(0%2c -10px)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float3 %7b animation: float3 6s infinite%3b %7d %3c/style%3e%3c/defs%3e%3c/svg%3e");
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+body::-webkit-scrollbar {
+  width: 5px; 
+}
+
+body::-webkit-scrollbar-track {
+  background: #bc00d7;  
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: #372365; 
+  border-radius: 20px; 
+}
