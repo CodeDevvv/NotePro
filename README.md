@@ -54,22 +54,22 @@ Follow these steps to get a local copy up and running.
 Here’s a preview of what NotePro looks like:
 
 ### Home
-![Home](./src/images/Screenshots/Home.png)
+![Home](./src/Images/Screenshots/Home.png)
 
 ### Register
-![Register](./src/images/Screenshots/Register.png)
+![Register](./src/Images/Screenshots/Register.png)
 
 ### Dashboard
-![Dashboard](./src/images/Screenshots/Dashboard.png)
+![Dashboard](./src/Images/Screenshots/Dashboard.png)
 
 ### Create Note
-![Create Note](./src/images/Screenshots/CreateNote.png)
+![Create Note](./src/Images/Screenshots/CreateNote.png)
 
 ### Update Note
-![Update Note](./src/images/Screenshots/UpdateNotes.png)
+![Update Note](./src/Images/Screenshots/UpdateNotes.png)
 
 ### Unauthorized
-![Unauthorized](./src/images/Screenshots/UnauthorizedAccess.png)
+![Unauthorized](./src/Images/Screenshots/UnauthorizedAccess.png)
 
 
 
